@@ -13,3 +13,10 @@
 
       * add calendar click event
 
+0.0.4 / 2018-01-03
+==================
+
+      * modify calendar show style
+
+
+
